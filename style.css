@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Muli:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@200&family=Roboto:wght@300;500;900&display=swap');
 
 h1 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #1A1A1A;
   letter-spacing: 40px;
   font-size: 60px;
@@ -10,7 +10,7 @@ h1 {
 
 body {
   background-color: #F0EFFB;
-  font-family: 'Muli', sans-serif;
+  font-family:'Muli', sans-serif;
   color: #313131;
   font-size: 16px;
   line-height: 50px;
